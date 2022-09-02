@@ -10,10 +10,10 @@
 
 utils for strings
 
-- initial
+- initials
 
-## initial
-> `initial([string=''])`
+## initials
+> `initials([string=''])`
 
 Returns the first character of each space seperated word in the given string.
 
@@ -24,7 +24,7 @@ Returns the first character of each space seperated word in the given string.
 (`string`): Returns the converted string
 
 #### Example
-`initial('foo bar doe');`
+`initials('foo bar doe');`
 
 `// => 'f b d'`
 
