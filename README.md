@@ -8,7 +8,23 @@
 
 [Github repo here](https://github.com/plandek-utils/ts-string-utils)
 
-TBD
+utils for strings
+
+### initial
+> `initial([string=''])`
+
+Returns the first character of each space seperated word in the given string.
+
+#### Arguments
+`[string=''] (string): The string to convert to initials.`
+
+#### Returns
+(`string`): Returns the converted string
+
+#### Example
+`initial('foo bar doe');`
+`// => 'f b d'`
+
 
 ## Development, Commits, versioning and publishing
 
