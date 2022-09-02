@@ -10,7 +10,9 @@
 
 utils for strings
 
-### initial
+- initial
+
+## initial
 > `initial([string=''])`
 
 Returns the first character of each space seperated word in the given string.
