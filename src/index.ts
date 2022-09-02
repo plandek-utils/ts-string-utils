@@ -1,1 +1,1 @@
-export const testString = "testing";
+export { initials } from "./initials";

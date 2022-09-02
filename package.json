@@ -59,12 +59,15 @@
   "engines": {
     "node": ">=10.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash.compact": "^3.0.1"
+  },
   "devDependencies": {
     "@bitjson/npm-scripts-info": "^1.0.0",
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
     "@types/jest": "^29.0.0",
+    "@types/lodash.compact": "^3.0.7",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "cz-conventional-changelog": "^3.3.0",

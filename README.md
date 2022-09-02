@@ -1,8 +1,8 @@
 # `@plandek-utils/ts-string-utils`
 
 [![npm version](https://badge.fury.io/js/%40plandek-utils%2Fts-string-utils.svg)](https://badge.fury.io/js/%40plandek-utils%2Fts-string-utils)
-[![Maintainability](https://api.codeclimate.com/v1/badges/05e2125551579a9abbcc/maintainability)](https://codeclimate.com/github/plandek-utils/ts-string-utils/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/05e2125551579a9abbcc/test_coverage)](https://codeclimate.com/github/plandek-utils/ts-string-utils/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7325ebd41bc9cb07d3e4/maintainability)](https://codeclimate.com/github/plandek-utils/ts-string-utils/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7325ebd41bc9cb07d3e4/test_coverage)](https://codeclimate.com/github/plandek-utils/ts-string-utils/test_coverage)
 
 [TypeDoc generated docs in here](https://plandek-utils.github.io/ts-string-utils)
 
