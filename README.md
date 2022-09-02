@@ -25,6 +25,7 @@ Returns the first character of each space seperated word in the given string.
 
 #### Example
 `initial('foo bar doe');`
+
 `// => 'f b d'`
 
 
