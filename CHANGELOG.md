@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.1](https://github.com/plandek-utils/ts-string-utils/compare/v1.2.0...v1.2.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* deps ([edde179](https://github.com/plandek-utils/ts-string-utils/commit/edde1793579ebc06b4eb7124f0806c205a059ccd))
+
 ## [1.2.0](https://github.com/plandek-utils/ts-parse-dayjs/compare/v1.0.0...v1.2.0) (2025-01-21)
 
 
