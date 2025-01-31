@@ -1,6 +1,6 @@
 {
   "name": "@plandek-utils/ts-string-utils",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Colin Eatherton <colin.eatherton@plandek.com>",
   "description": "Small collection of string utilities",
   "main": "dist/index.js",
